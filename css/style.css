@@ -1,0 +1,24 @@
+.container {
+    min-height: 100vh;
+    background: url(../img/hero.jpg) no-repeat center;
+    background-size: cover;
+    clip-path: polygon(0 0, 100% 0, 100% 80%, 0% 100%);
+}
+
+.nav-bar{
+    display:flex;
+}
+
+.img-1 {
+    width: 20%;
+}
+
+.btn-1 {
+    margin-left: auto;
+}
+
+.mini-con1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
